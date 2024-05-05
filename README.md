@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Rohit Mundhra
-- 🌱 I’m currently learning database management system
-- 📫 How to reach me Whatsapp only +91 7726021453
+- 🌱 Flutter Developer
